@@ -62,11 +62,3 @@ for k = 1:row
 end
 end
 
-% fts=sym2cell(ft)
-% fts{1,1}=strrep(fts{1,1}, "q1", "q[1]");
-% fts{1,1}=strrep(fts{1,1}, "q2", "q[2]");
-% 
-% fts{1,1}
-
-
-
